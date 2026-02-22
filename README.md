@@ -1,3 +1,4 @@
+![CI](https://github.com/codewithmazi/OA-devops-intern-final/actions/workflows/ci.yml/badge.svg)
 # OA-devops-intern-final  DevOps Intern Final Assessment
 
 Name: Oluwanifemi Awopetu
