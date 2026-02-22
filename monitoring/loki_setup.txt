@@ -1,0 +1,16 @@
+Loki Setup (Local Docker):
+
+1. Start Loki container:
+   docker run -d --name=loki -p 3100:3100 grafana/loki:latest
+
+2. View container logs going to Loki:
+   docker logs devops-hello
+   
+   (Or any container: docker logs CONTAINER_NAME)
+
+3. Simple log forwarding concept:
+   - Use Promtail (agent) or Docker logging driver to send logs → Loki:3100
+   - Query logs via Grafana (http://localhost:3000) connected to Loki
+
+Tested: Loki accessible at http://localhost:3100/ready
+Screenshot: check Readme.md
