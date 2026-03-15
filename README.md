@@ -36,7 +36,7 @@ screenshot:
 
 
 ##other screenshots
-![alt text](<Screenshot 2026-02-22 205126.png>)
+![alt text](<image-2.png>)
 
 ![alt text](<Screenshot 2026-02-22 205217.png>)
 
