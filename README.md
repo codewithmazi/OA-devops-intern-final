@@ -27,7 +27,7 @@ docker run --rm devops-hello
 
 See monitoring/loki_setup.txt for local Docker setup.
 screenshot: 
-![alt text](image-1.png)
+
 
 
 ## MLflow experiment
